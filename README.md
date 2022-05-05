@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **AI**
 
-- 🤝 I’m looking for help with **Pavan**
+- 🤝 I’m looking for help with **PR_Developers**
 
 - 👨‍💻 All of my projects are available at [Akankshashewatkar](Akankshashewatkar)
 
