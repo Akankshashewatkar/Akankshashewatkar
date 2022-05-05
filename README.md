@@ -1,6 +1,7 @@
+[![MasterHead](https://forum.vectorworks.net/uploads/monthly_2021_02/sample.gif.415fae3962f032fc47f0c99bceea8135.gif)](https://Akankshashewatkar.io)
 <h1 align="center">Hi 👋, I'm Akanksha Shewatkar</h1>
 <h3 align="center">A passionate as developer from India</h3>
-
+<img align="center" alt="Hacker" width"400" src="https://benmcewan.com/newsletter/images/2abb3858-690d-4a8f-aae0-05280d4567a5.gif"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akankshashewatkar&label=Profile%20views&color=0e75b6&style=flat" alt="akankshashewatkar" /> </p>
 
 <p align="left"> <a href="https://twitter.com/akanksha shewatkar" target="blank"><img src="https://img.shields.io/twitter/follow/akanksha shewatkar?logo=twitter&style=for-the-badge" alt="akanksha shewatkar" /></a> </p>
